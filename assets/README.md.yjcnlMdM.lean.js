@@ -1,0 +1,1 @@
+import{_ as s,c as e,o as i,ag as t}from"./chunks/framework.Ds6Eueu6.js";const u=JSON.parse('{"title":"SugarCode Blog","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),n={name:"README.md"};function l(p,a,o,r,d,c){return i(),e("div",null,a[0]||(a[0]=[t("",25)]))}const g=s(n,[["render",l]]);export{u as __pageData,g as default};
